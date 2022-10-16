@@ -1,0 +1,111 @@
+html {
+    margin: auto;
+    padding: 0;
+    font-size: 100%;
+    font-family: "Roboto", sans-serif;
+    color: black;
+}
+
+body {
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Arial", sans-serif;
+    color: #222222;
+    padding: 0px;
+    margin: 0px;
+}
+
+.page-header {
+    background-image: url(https://gkhvidnoe.ru/wp-content/uploads/2019/02/серый.png);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    margin-right: 5%;
+    margin-left: 5%;
+    min-height: 200px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.yua {
+    padding-top: 1px;
+    padding-bottom: 4px;
+}
+
+.vus {
+    text-indent: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.page-footer {
+    min-height: 50px;
+    padding: 20px;
+    font-size: 14px;
+    color: black;
+    background-image: url(https://gkhvidnoe.ru/wp-content/uploads/2019/02/серый.png);
+    background-position: bottom;
+}
+
+.tab1 {
+    width: 800px;
+    height: 150px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+caption {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.tab21 {
+    background-color: aquamarine;
+}
+
+.tab22 {
+    background-color: #ffffcb;
+}
+
+.tab2 {
+    width: 400px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+.ltvo {
+    text-align: right;
+    border: none;
+}
+
+.pratvo {
+    border: none;
+    text-align: left;
+}
+
+.formatamle1 {
+    width: auto;
+    height: auto;
+    border-collapse: collapse;
+}
